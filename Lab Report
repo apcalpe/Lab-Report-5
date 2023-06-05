@@ -29,11 +29,14 @@ This is the directory and it's files: https://github.com/apcalpe/Lab-Report-5/bl
 
 TA's Repsonse:
 
+I suggest looking at all your variables and make sure there are no spelling mistakes when calling on those variables.
+
 
 Terminal Output:
 
-
-Information Needed:
+Output when trying the command after trying TA's suggestions: https://github.com/apcalpe/Lab-Report-5/blob/main/Screenshot%202023-06-05%20at%203.43.22%20PM.png
+The bug is that when trying to call on CPATH in lines 17 and 19, the student put SPATH instead of CPATH, so the Junit is not actually compiling.
+When the terminal tried reading the input and going into grade.sh to compile and run, instead of running the right path, it's taking in a null input, thus, it can't run Junit or look for the class TestListExamples.
 
 
 Part 2: Reflection
