@@ -4,13 +4,27 @@ Student's Post:
 
 What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?
 
+I am using a Macbook with an IOS operating system. I use the command line of terminal of Visual Studio Code to put in bash commands.
 
 
 Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.
 
+The symptom I'm seeing is that there are a couple errors with the asserts for the test and the "@Test" of every test. There is also an error that says it could not find or load main class TestListExamples.
+
+Image: https://github.com/apcalpe/Lab-Report-5/blob/main/Screenshot%202023-06-05%20at%203.30.26%20PM.png
 
 
 Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.
+
+The failure-indicing input is "bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-lab3". I'm using bash to run the grade.sh file to grade a repository I put in, which is the https://github.com/ucsd-cse15l-f22/list-methods-lab3 part of the input.
+Once I open the grade.sh file and save my edits there, that's the only input I put in the terminal.
+The working directory is /Users/alianacalpe/Documents/GitHub/list-examples-grader-1 which includes the files grade.sh, ListExamples.java, and TestListExamples.java.
+
+This is the file I'm running: https://github.com/apcalpe/Lab-Report-5/blob/main/Screenshot%202023-06-05%20at%203.31.50%20PM.png
+
+This is the tests I'm running: https://github.com/apcalpe/Lab-Report-5/blob/main/Screenshot%202023-06-05%20at%203.34.09%20PM.png
+
+This is the directory and it's files: https://github.com/apcalpe/Lab-Report-5/blob/main/Screenshot%202023-06-05%20at%203.37.37%20PM.png
 
 
 TA's Repsonse:
