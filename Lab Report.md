@@ -52,6 +52,6 @@ In order to fix that, in all lines that have `SPATH`, replaced it with `CPATH.` 
 I learned a lot from the second half of this quarter that I didn't know before, like the vim editor. I did not know that existed at all and it's actually a really cool way of editing, especially with so many shortcuts and commands.
 When we had that time during lab where we just studied vim and everything it could do was honestly a very great experience for me just because of everything I learned and all the ways to make editing more efficient. 
 I also didn't really understand vim that well in class and was just confused on what we were even doing with it, but after this, now I understand it a lot mroe than I did and know how to use it.
-There was an exercise where we had to do a couple steps in the vim editor and time ourselves, and by understanding how vim works, I could really mazimize my time and something that used to take me more than 10 minutes to do ended with me only needing to spend 1 minute on it.
+There was an exercise where we had to do a couple steps in the vim editor and time ourselves, and by understanding how vim works, I could really maximize my time and something that used to take me more than 10 minutes to do ended with me only needing to spend 1 minute on it.
 
 
