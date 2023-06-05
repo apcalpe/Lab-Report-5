@@ -20,11 +20,14 @@ The failure-indicing input is `bash grade.sh https://github.com/ucsd-cse15l-f22/
 Once I open the grade.sh file and save my edits there, that's the only input I put in the terminal.
 The working directory is `/Users/alianacalpe/Documents/GitHub/list-examples-grader-1` which includes the files `grade.sh`, `ListExamples.java`, and `TestListExamples.java`.
 
-This is the file I'm running: ![Image](Screenshot%202023-06-05%20at%203.31.50%20PM.png)
+This is the file I'm running: 
+![Image](Screenshot%202023-06-05%20at%203.31.50%20PM.png)
 
-This is the tests I'm running: ![Image](Screenshot%202023-06-05%20at%203.34.09%20PM.png)
+This is the tests I'm running: 
+![Image](Screenshot%202023-06-05%20at%203.34.09%20PM.png)
 
-This is the directory and its files: ![Image](Screenshot%202023-06-05%20at%203.37.37%20PM.png)
+This is the directory and its files: 
+![Image](Screenshot%202023-06-05%20at%203.37.37%20PM.png)
 
 
 **TA's Repsonse:**
