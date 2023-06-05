@@ -21,12 +21,15 @@ Once I open the grade.sh file and save my edits there, that's the only input I p
 The working directory is `/Users/alianacalpe/Documents/GitHub/list-examples-grader-1` which includes the files `grade.sh`, `ListExamples.java`, and `TestListExamples.java`.
 
 This is the file I'm running: 
+
 ![Image](Screenshot%202023-06-05%20at%203.31.50%20PM.png)
 
 This is the tests I'm running: 
+
 ![Image](Screenshot%202023-06-05%20at%203.34.09%20PM.png)
 
 This is the directory and its files: 
+
 ![Image](Screenshot%202023-06-05%20at%203.37.37%20PM.png)
 
 
@@ -41,6 +44,7 @@ Output when trying the command after trying TA's suggestions: ![Image](Screensho
 
 The bug is that when trying to call on CPATH in lines 17 and 19, the student put `SPATH` instead of `CPATH`, so the Junit is not actually compiling.
 When the terminal tried reading the input and going into grade.sh to compile and run, instead of running the right path, it's taking in a null input, thus, it can't run Junit or look for the class TestListExamples.
+In order to fix that, in all lines that have `SPATH`, replaced it with `CPATH.` Check all other lines for any mispelling mistakes with the variables.
 
 
 ## Part 2: Reflection
